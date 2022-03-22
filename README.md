@@ -1,5 +1,6 @@
 # Reward-Contract BSC币安智能链分红奖励代币合约
 奖励分红合约代码全开源,关键代码都写有备注.
+
 支持分红SHIB/ETH/USDT/DOGE/CAKE/BNB等BSC智所有代币。
 
 # BSC常用代币合约地址

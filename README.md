@@ -22,4 +22,4 @@ BNB: 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c
 有销毁 防机器人 分红奖励(可自己指定分红什么币) 营销费 手续费自动添加流动池等功能
 
 # 一键发币
-https://coinjm.com/tokenmake/bep20-token-generator
+https://tool.hidefi.cc/#/createtoken
